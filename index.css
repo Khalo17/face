@@ -1,0 +1,111 @@
+#container{
+    position: relative;
+    top: 40px;
+}
+#main{
+    background-image: linear-gradient(to left,#e6e3ff,#fff0f0);
+    height: 400px;
+    width: 250px;
+    position: relative;
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.logo{
+    height: 30px;
+    width: 30px;
+    border: none;
+    border-radius: 50%;
+}
+.footerr{
+    height: 30px;
+    width: 70px;
+    background-color: transparent;
+}
+#form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+    margin: 0;
+    width: 250px;
+    height: 150px;
+}
+.containeri{
+    width: 240px;
+    height: 150px;
+}
+.inputF{
+    padding-left: 10px;
+    box-sizing: border-box;
+    height: 40px;
+    width: 240px;
+    margin: 5px 0 5px 0;
+    border: 1px black solid;
+    border-radius: 10px;
+}
+.buttons{
+    height: 25px;
+    width: 240px;
+    margin: 5px 0 5px 0;
+    border: none;
+    border-radius: 12px;
+    background-color: blue;
+    color: #fff;
+}
+.selectt{
+    border: none;
+}
+.formf{
+    display: block;
+    color: #000;
+    height: 25;
+    width: 220px;
+    margin-left: 15px;
+    text-align: center;
+    text-decoration: none;
+
+}
+.link{
+    display: block;
+    position: relative;
+    top: 45px;
+    text-decoration: none;
+    text-align: center;
+    width: 240px;
+    height: 25;
+    margin-left: 5px;
+    border: 1px blue solid;
+    border-radius: 12px;
+    color: blue;
+}
+.linkc{
+    height: 70px;
+    width: 250px;
+    position: relative;
+}
+.selectc{
+    height: 20px;
+    width: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.logoc{
+    position: relative;
+    left: 105px;
+    width: 40px;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.fotte{
+    width: 250px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
