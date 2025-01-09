@@ -1,0 +1,134 @@
+#container{
+    position: relative;
+    top: 5vh;
+    height:90vh;
+
+}
+#main{
+    background-image: linear-gradient(to left,#e6e3ff,#fff0f0);
+    height: 96vh;
+    display: flex;
+    justify-content: center;
+    width: 99.99vw;
+    padding: 0;
+    margin: 0;
+    position: relative;
+}
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: content-box;
+    width: 99.99vw;
+    height: 96vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.logo{
+    height: 50px;
+    width: 50px;
+    border: none;
+    border-radius: 50%;
+}
+.footerr{
+    height: 30px;
+    width: 70px;
+    background-color: transparent;
+}
+#form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+    margin: 0;
+    width: 97.99vw;
+    height: 30vh;
+    position: relative;
+}
+.containeri{
+    width: 97.99vw;
+    height:30vh ;
+    position: relative;
+}
+.inputF{
+    position: relative;
+    padding-left: 10px;
+    height: 9.5vh;
+    width: 97.99vw;
+    margin: 1vh 0 1vh 0;
+    box-sizing: border-box;
+    border: 1px black solid;
+    border-radius: 10px;
+}
+.buttons{
+    position: relative;
+    height: 7vh;
+    width: 97.99vw;
+    border: none;
+    top: 0vh;
+    border-radius: 12px;
+    background-color: blue;
+    color: #fff;
+}
+.selectt{
+    border: none;
+}
+.formf{
+    display: block;
+    position: relative;
+    top: 2vh;
+    color: #000;
+    height: 2vh;
+    width: 97.99vw;
+    margin-left: 15px;
+    text-align: center;
+    text-decoration: none;
+
+}
+.link{
+    display: block;
+    position: relative;
+    top: 45px;
+    text-decoration: none;
+    text-align: center;
+    width: 97.9vw;
+    height: 6vh;
+    border: 1px blue solid;
+    line-height: 6vh;
+    border-radius: 12px;
+    color: blue;
+}
+.linkc{
+    height: 15vh;
+    width: 97.9vw;
+    position: relative;
+}
+.selectc{
+    height: 20px;
+    width: 97.99vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.logoc{
+    position: relative;
+    margin-top: 4vh;
+    margin-bottom: 4vh;
+    width: 97.99;
+    height: 10vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.fotte{
+    width: 97.99vw;
+    height: 10vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.bottom{
+    position: relative;
+    height: 10vh;
+    width: 97.99vw;
+}
