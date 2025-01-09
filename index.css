@@ -6,7 +6,7 @@
 }
 #main{
     background-image: linear-gradient(to left,#e6e3ff,#fff0f0);
-    height: 96vh;
+    height: 98vh;
     display: flex;
     justify-content: center;
     width: 99.99vw;
@@ -19,7 +19,7 @@ body{
     padding: 0;
     box-sizing: content-box;
     width: 99.99vw;
-    height: 96vh;
+    height: 98vh;
     display: flex;
     align-items: center;
     justify-content: center;
