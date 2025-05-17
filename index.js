@@ -21,4 +21,4 @@ form.addEventListener("submit",(e)=>{
     }
     fun()
 })*/
-alert('khaled')
+alert('welcome')
